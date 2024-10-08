@@ -1,56 +1,56 @@
 {
-  "tools": {
-    "CC Generate": "https://teamcsb.com/bin",
-    "Bin Checker": "https://teamcsb.com/bin-checker",
-    "Live CC Checker": "https://checker.top/",
-    "Fake Address": "https://teamcsb.com/fake-address",
-    "Bin Find & Sharing": "https://teamcsb.com/bin-find-share",
-    "IP To Location Track": "https://teamcsb.com/ip-to-info",
-    "Bin Generator": "https://www.teamcsb.com/bin-genarator",
-    "Short URL": "https://teamcsb.com/s",
-    "Temp Mail": "https://teamcsb.com/temp-mail",
-    "Extra Tools": {
-      "Fake IP Generator": "https://teamcsb.com/fake-ip-generator/Random-IP-Generator-master",
-      "Password Generator": "https://teamcsb.com/password-generator",
-      "APK Download": "https://teamcsb.com/apk",
-      "Styles Text Generator": "https://teamcsb.com/styles-text-generator",
-      "Image To ASCII": "https://teamcsb.com/art-image",
-      "Pickup Line Generator": "https://teamcsb.com/pickup-line",
-      "Text Mechanic": "https://teamcsb.com/text-mechanic"
-    },
-    "Device Info Checker": {
-      "Admin": "https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL",
-      "My User Agent": "https://teamcsb.com/device/my-user-agent",
-      "My IP Address": "https://teamcsb.com/device/my-ip/",
-      "Device Information Checker": "https://teamcsb.com/device/device-information/",
-      "Internet Speed Test": "https://teamcsb.com/device/speed-test"
-    },
-    "SEO Tools": {
-      "Link To Keyword Find": "https://teamcsb.com/seo-tols/link-to-keyword",
-      "Keyword Suggestion": "https://teamcsb.com/seo-tols/keyword-suggestion/",
-      "Word Counter": "https://teamcsb.com/seo-tols/word-counter",
-      "Page Speed Analyzer": "https://teamcsb.com/seo-tols/Page-Speed-Analyzer",
-      "Keyword Density Checker": "https://teamcsb.com/speed-test",
-      "Robot.txt Generator": "https://teamcsb.com/seo-tols/robot.txt-generator",
-      "Meta Tag Generator": "https://teamcsb.com/seo-tols/meta-tag-genarator/",
-      "Color Search Engine": "https://teamcsb.com/seo-tols/color-search",
-      "Wiki Viewer": "https://teamcsb.com/seo-tols/wiki-viewer/"
-    },
-    "Website Info Checker": {
-      "Domain Age Checker": "https://teamcsb.com/web-info/domain-age-checker",
-      "Domain To IP": "https://teamcsb.com/web-info/domain-to-ip",
-      "DNS Lookup": "https://teamcsb.com/web-info/dns-lookup",
-      "URL Redirect Checker": "https://teamcsb.com/web-info/url-redirect-checker/",
-      "Link Analyzer": "https://teamcsb.com/web-info/link-analyzer/"
-    },
-    "YouTube Tools": {
-      "Extract YouTube Video Title": "https://teamcsb.com/youtube-title-extractor",
-      "Extract YouTube Video Description": "https://teamcsb.com/youtube-description-extractor",
-      "Extract YouTube Hashtag": "https://teamcsb.com/youtube-hashtag-extractor",
-      "Youtube Thumbnail Downloader": "https://teamcsb.com/youtube-thumbnail-downloader",
-      "YouTube Channel Logo Downloader": "https://teamcsb.com/youtube-channel-logo-downloader",
-      "YouTube Video Statistics": "https://teamcsb.com/youtube-video-statistics",
-      "Extract YouTube Video Keyword": "https://teamcsb.com/youtube-tag-extractor/"
+    "tools": {
+        "CC Generate": "https://teamcsb.com/bin",
+        "Bin Checker": "https://teamcsb.com/bin-checker",
+        "Live CC Checker": "https://checker.top/",
+        "Fake Address": "https://teamcsb.com/fake-address",
+        "Bin Find & Sharing": "https://teamcsb.com/bin-find-share",
+        "IP To Location Track": "https://teamcsb.com/ip-to-info",
+        "Bin Generator": "https://www.teamcsb.com/bin-genarator",
+        "Short URL": "https://teamcsb.com/s",
+        "Temp Mail": "https://teamcsb.com/temp-mail",
+        "Extra Tools": {
+            "Fake IP Generator": "https://teamcsb.com/fake-ip-generator/Random-IP-Generator-master",
+            "Password Generator": "https://teamcsb.com/password-generator",
+            "APK Download": "https://teamcsb.com/apk",
+            "Styles Text Generator": "https://teamcsb.com/styles-text-generator",
+            "Image To ASCII": "https://teamcsb.com/art-image",
+            "Pickup Line Generator": "https://teamcsb.com/pickup-line",
+            "Text Mechanic": "https://teamcsb.com/text-mechanic"
+        },
+        "Device Info Checker": {
+            "Admin": "https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL",
+            "My User Agent": "https://teamcsb.com/device/my-user-agent",
+            "My IP Address": "https://teamcsb.com/device/my-ip/",
+            "Device Information Checker": "https://teamcsb.com/device/device-information/",
+            "Internet Speed Test": "https://teamcsb.com/device/speed-test"
+        },
+        "SEO Tools": {
+            "Link To Keyword Find": "https://teamcsb.com/seo-tols/link-to-keyword",
+            "Keyword Suggestion": "https://teamcsb.com/seo-tols/keyword-suggestion/",
+            "Word Counter": "https://teamcsb.com/seo-tols/word-counter",
+            "Page Speed Analyzer": "https://teamcsb.com/seo-tols/Page-Speed-Analyzer",
+            "Keyword Density Checker": "https://teamcsb.com/speed-test",
+            "Robot.txt Generator": "https://teamcsb.com/seo-tols/robot.txt-generator",
+            "Meta Tag Generator": "https://teamcsb.com/seo-tols/meta-tag-genarator/",
+            "Color Search Engine": "https://teamcsb.com/seo-tols/color-search",
+            "Wiki Viewer": "https://teamcsb.com/seo-tols/wiki-viewer/"
+        },
+        "Website Info Checker": {
+            "Domain Age Checker": "https://teamcsb.com/web-info/domain-age-checker",
+            "Domain To IP": "https://teamcsb.com/web-info/domain-to-ip",
+            "DNS Lookup": "https://teamcsb.com/web-info/dns-lookup",
+            "URL Redirect Checker": "https://teamcsb.com/web-info/url-redirect-checker/",
+            "Link Analyzer": "https://teamcsb.com/web-info/link-analyzer/"
+        },
+        "YouTube Tools": {
+            "Extract YouTube Video Title": "https://teamcsb.com/youtube-title-extractor",
+            "Extract YouTube Video Description": "https://teamcsb.com/youtube-description-extractor",
+            "Extract YouTube Hashtag": "https://teamcsb.com/youtube-hashtag-extractor",
+            "Youtube Thumbnail Downloader": "https://teamcsb.com/youtube-thumbnail-downloader",
+            "YouTube Channel Logo Downloader": "https://teamcsb.com/youtube-channel-logo-downloader",
+            "YouTube Video Statistics": "https://teamcsb.com/youtube-video-statistics",
+            "Extract YouTube Video Keyword": "https://teamcsb.com/youtube-tag-extractor/"
+        }
     }
-  }
 }
