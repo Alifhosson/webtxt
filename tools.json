@@ -5,16 +5,12 @@
       "url": "https://teamcsb.com/bin"
     },
     {
-      "name": "Bin Checker",
-      "url": "https://teamcsb.com/bin-checker"
-    },
-    {
       "name": "Live CC Checker",
       "url": "https://checker.top/"
     },
     {
-      "name": "Fake Address",
-      "url": "https://teamcsb.com/fake-address"
+      "name": "Bin Info",
+      "url": "https://teamcsb.com/bin-checker"
     },
     {
       "name": "Bin Find & Sharing",
@@ -35,7 +31,9 @@
     {
       "name": "Temp Mail",
       "url": "https://teamcsb.com/temp-mail"
-    },
+    }
+    ],
+    "Extra Tols"[
     {
       "name": "Fake IP Generator",
       "url": "https://teamcsb.com/fake-ip-generator/Random-IP-Generator-master"
@@ -53,16 +51,14 @@
       "url": "https://teamcsb.com/styles-text-generator"
     },
     {
-      "name": "Image To ASCII",
-      "url": "https://teamcsb.com/art-image"
-    },
-    {
-      "name": "Pickup Line Generator",
-      "url": "https://teamcsb.com/pickup-line"
-    },
-    {
       "name": "Text Mechanic",
       "url": "https://teamcsb.com/text-mechanic"
+    }
+    ],
+    "Device Info Checker"[
+    {
+      "name": "Admin",
+      "url": "https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL"
     },
     {
       "name": "My User Agent",
@@ -80,6 +76,44 @@
       "name": "Internet Speed Test",
       "url": "https://teamcsb.com/device/speed-test"
     },
+    {
+      "name": "Link To Keyword Find",
+      "url": "https://teamcsb.com/seo-tols/link-to-keyword"
+    },
+    {
+      "name": "Keyword Suggestion",
+      "url": "https://teamcsb.com/seo-tols/keyword-suggestion/"
+    },
+    {
+      "name": "Word Counter",
+      "url": "https://teamcsb.com/seo-tols/word-counter"
+    },
+    {
+      "name": "Page Speed Analyzer",
+      "url": "https://teamcsb.com/seo-tols/Page-Speed-Analyzer"
+    },
+    {
+      "name": "Keyword Density Checker",
+      "url": "https://teamcsb.com/speed-test"
+    },
+    {
+      "name": "Robot.txt Generator",
+      "url": "https://teamcsb.com/seo-tols/robot.txt-generator"
+    },
+    {
+      "name": "Meta Tag Generator",
+      "url": "https://teamcsb.com/seo-tols/meta-tag-genarator/"
+    },
+    {
+      "name": "Color Search Engine",
+      "url": "https://teamcsb.com/seo-tols/color-search"
+    },
+    {
+      "name": "Wiki Viewer",
+      "url": "https://teamcsb.com/seo-tols/wiki-viewer/"
+    }
+    ],
+    "website Info Checker"[
     {
       "name": "Domain Age Checker",
       "url": "https://teamcsb.com/web-info/domain-age-checker"
@@ -99,7 +133,9 @@
     {
       "name": "Link Analyzer",
       "url": "https://teamcsb.com/web-info/link-analyzer/"
-    },
+    }
+    ],
+    "YouTube Tools"[
     {
       "name": "Extract YouTube Video Title",
       "url": "https://teamcsb.com/youtube-title-extractor"
@@ -113,7 +149,7 @@
       "url": "https://teamcsb.com/youtube-hashtag-extractor"
     },
     {
-      "name": "YouTube Thumbnail Downloader",
+      "name": "Youtube Thumbnail Downloader",
       "url": "https://teamcsb.com/youtube-thumbnail-downloader"
     },
     {
@@ -123,10 +159,6 @@
     {
       "name": "YouTube Video Statistics",
       "url": "https://teamcsb.com/youtube-video-statistics"
-    },
-    {
-      "name": "Extract YouTube Video Keyword",
-      "url": "https://teamcsb.com/youtube-tag-extractor/"
     }
   ]
 }
