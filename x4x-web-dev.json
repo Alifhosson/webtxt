@@ -1,7 +1,7 @@
 {
   "phrases": [
-    { "text": "WELCOME TO ALIF X4X WEB", "class": "green" },
-    { "text": "Developed by Alif Hosson", "class": "yellow" },
-    { "text": "Websites Version 2.2.0", "class": "red" }
+    { "text": "WELCOME TO ALIF X4X WEB", "class": "green", "link": "https://github.com/Alifhosson/webtxt/blob/main/x4x-web-dev.json" },
+    { "text": "Developed by Alif Hosson", "class": "yellow", "link": "https://github.com/Alifhosson/webtxt/blob/main/x4x-web-dev.json" },
+    { "text": "Websites Version 2.2.0", "class": "red", "link": "https://github.com/Alifhosson/webtxt/blob/main/x4x-web-dev.json" }
   ]
 }
