@@ -1,164 +1,194 @@
 {
   "tools": [
     {
-      "name": "CC Generate",
-      "url": "https://teamcsb.com/bin"
+      "label": "CC Generate",
+      "url": "https://teamcsb.com/bin",
+      "color": "default"
     },
     {
-      "name": "Live CC Checker",
-      "url": "https://checker.top/"
+      "label": "Live CC Checker",
+      "url": "https://checker.top/",
+      "color": "default"
     },
     {
-      "name": "Bin Info",
-      "url": "https://teamcsb.com/bin-checker"
+      "label": "Bin Info",
+      "url": "https://teamcsb.com/bin-checker",
+      "color": "default"
     },
     {
-      "name": "Bin Find & Sharing",
-      "url": "https://teamcsb.com/bin-find-share"
+      "label": "Bin Find & Sharing",
+      "url": "https://teamcsb.com/bin-find-share",
+      "color": "default"
     },
     {
-      "name": "IP To Location Track",
-      "url": "https://teamcsb.com/ip-to-info"
+      "label": "IP To Location Track",
+      "url": "https://teamcsb.com/ip-to-info",
+      "color": "default"
     },
     {
-      "name": "Bin Generator",
-      "url": "https://www.teamcsb.com/bin-genarator"
+      "label": "Bin Generator",
+      "url": "https://www.teamcsb.com/bin-genarator",
+      "color": "default"
     },
     {
-      "name": "Short URL",
-      "url": "https://teamcsb.com/s"
+      "label": "Short URL",
+      "url": "https://teamcsb.com/s",
+      "color": "default"
     },
     {
-      "name": "Temp Mail",
-      "url": "https://teamcsb.com/temp-mail"
-    }
-    ],
-    "Extra Tols"[
-    {
-      "name": "Fake IP Generator",
-      "url": "https://teamcsb.com/fake-ip-generator/Random-IP-Generator-master"
+      "label": "Temp Mail",
+      "url": "https://teamcsb.com/temp-mail",
+      "color": "default"
     },
     {
-      "name": "Password Generator",
-      "url": "https://teamcsb.com/password-generator"
+      "label": "Fake IP Generator",
+      "url": "https://teamcsb.com/fake-ip-generator/Random-IP-Generator-master",
+      "color": "default"
     },
     {
-      "name": "APK Download",
-      "url": "https://teamcsb.com/apk"
+      "label": "Password Generator",
+      "url": "https://teamcsb.com/password-generator",
+      "color": "default"
     },
     {
-      "name": "Styles Text Generator",
-      "url": "https://teamcsb.com/styles-text-generator"
+      "label": "APK Download",
+      "url": "https://teamcsb.com/apk",
+      "color": "default"
     },
     {
-      "name": "Text Mechanic",
-      "url": "https://teamcsb.com/text-mechanic"
-    }
-    ],
-    "Device Info Checker"[
-    {
-      "name": "Admin",
-      "url": "https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL"
+      "label": "Styles Text Generator",
+      "url": "https://teamcsb.com/styles-text-generator",
+      "color": "default"
     },
     {
-      "name": "My User Agent",
-      "url": "https://teamcsb.com/device/my-user-agent"
+      "label": "Text Mechanic",
+      "url": "https://teamcsb.com/text-mechanic",
+      "color": "default"
     },
     {
-      "name": "My IP Address",
-      "url": "https://teamcsb.com/device/my-ip/"
+      "label": "Admin",
+      "url": "https://www.facebook.com/Alifhosson.xxx?mibextid=ZbWKwL",
+      "color": "default"
     },
     {
-      "name": "Device Information Checker",
-      "url": "https://teamcsb.com/device/device-information/"
+      "label": "My User Agent",
+      "url": "https://teamcsb.com/device/my-user-agent",
+      "color": "default"
     },
     {
-      "name": "Internet Speed Test",
-      "url": "https://teamcsb.com/device/speed-test"
+      "label": "My IP Address",
+      "url": "https://teamcsb.com/device/my-ip/",
+      "color": "default"
     },
     {
-      "name": "Link To Keyword Find",
-      "url": "https://teamcsb.com/seo-tols/link-to-keyword"
+      "label": "Device Information Checker",
+      "url": "https://teamcsb.com/device/device-information/",
+      "color": "default"
     },
     {
-      "name": "Keyword Suggestion",
-      "url": "https://teamcsb.com/seo-tols/keyword-suggestion/"
+      "label": "Internet Speed Test",
+      "url": "https://teamcsb.com/device/speed-test",
+      "color": "default"
     },
     {
-      "name": "Word Counter",
-      "url": "https://teamcsb.com/seo-tols/word-counter"
+      "label": "Link To Keyword Find",
+      "url": "https://teamcsb.com/seo-tols/link-to-keyword",
+      "color": "seo"
     },
     {
-      "name": "Page Speed Analyzer",
-      "url": "https://teamcsb.com/seo-tols/Page-Speed-Analyzer"
+      "label": "Keyword Suggestion",
+      "url": "https://teamcsb.com/seo-tols/keyword-suggestion/",
+      "color": "seo"
     },
     {
-      "name": "Keyword Density Checker",
-      "url": "https://teamcsb.com/speed-test"
+      "label": "Word Counter",
+      "url": "https://teamcsb.com/seo-tols/word-counter",
+      "color": "seo"
     },
     {
-      "name": "Robot.txt Generator",
-      "url": "https://teamcsb.com/seo-tols/robot.txt-generator"
+      "label": "Page Speed Analyzer",
+      "url": "https://teamcsb.com/seo-tols/Page-Speed-Analyzer",
+      "color": "seo"
     },
     {
-      "name": "Meta Tag Generator",
-      "url": "https://teamcsb.com/seo-tols/meta-tag-genarator/"
+      "label": "Keyword Density Checker",
+      "url": "https://teamcsb.com/speed-test",
+      "color": "seo"
     },
     {
-      "name": "Color Search Engine",
-      "url": "https://teamcsb.com/seo-tols/color-search"
+      "label": "Robot.txt Generator",
+      "url": "https://teamcsb.com/seo-tols/robot.txt-generator",
+      "color": "seo"
     },
     {
-      "name": "Wiki Viewer",
-      "url": "https://teamcsb.com/seo-tols/wiki-viewer/"
-    }
-    ],
-    "website Info Checker"[
-    {
-      "name": "Domain Age Checker",
-      "url": "https://teamcsb.com/web-info/domain-age-checker"
+      "label": "Meta Tag Generator",
+      "url": "https://teamcsb.com/seo-tols/meta-tag-genarator/",
+      "color": "seo"
     },
     {
-      "name": "Domain To IP",
-      "url": "https://teamcsb.com/web-info/domain-to-ip"
+      "label": "Color Search Engine",
+      "url": "https://teamcsb.com/seo-tols/color-search",
+      "color": "seo"
     },
     {
-      "name": "DNS Lookup",
-      "url": "https://teamcsb.com/web-info/dns-lookup"
+      "label": "Wiki Viewer",
+      "url": "https://teamcsb.com/seo-tols/wiki-viewer/",
+      "color": "seo"
     },
     {
-      "name": "URL Redirect Checker",
-      "url": "https://teamcsb.com/web-info/url-redirect-checker/"
+      "label": "Domain Age Checker",
+      "url": "https://teamcsb.com/web-info/domain-age-checker",
+      "color": "website"
     },
     {
-      "name": "Link Analyzer",
-      "url": "https://teamcsb.com/web-info/link-analyzer/"
-    }
-    ],
-    "YouTube Tools"[
-    {
-      "name": "Extract YouTube Video Title",
-      "url": "https://teamcsb.com/youtube-title-extractor"
+      "label": "Domain To IP",
+      "url": "https://teamcsb.com/web-info/domain-to-ip",
+      "color": "website"
     },
     {
-      "name": "Extract YouTube Video Description",
-      "url": "https://teamcsb.com/youtube-description-extractor"
+      "label": "DNS Lookup",
+      "url": "https://teamcsb.com/web-info/dns-lookup",
+      "color": "website"
     },
     {
-      "name": "Extract YouTube Hashtag",
-      "url": "https://teamcsb.com/youtube-hashtag-extractor"
+      "label": "URL Reditech Checker",
+      "url": "https://teamcsb.com/web-info/url-redirect-checker/",
+      "color": "website"
     },
     {
-      "name": "Youtube Thumbnail Downloader",
-      "url": "https://teamcsb.com/youtube-thumbnail-downloader"
+      "label": "Link Analyzer",
+      "url": "https://teamcsb.com/web-info/link-analyzer/",
+      "color": "website"
     },
     {
-      "name": "YouTube Channel Logo Downloader",
-      "url": "https://teamcsb.com/youtube-channel-logo-downloader"
+      "label": "Extract YouTube Video Title",
+      "url": "https://teamcsb.com/youtube-title-extractor",
+      "color": "youtube"
     },
     {
-      "name": "YouTube Video Statistics",
-      "url": "https://teamcsb.com/youtube-video-statistics"
+      "label": "Extract YouTube Video Description",
+      "url": "https://teamcsb.com/youtube-description-extractor",
+      "color": "youtube"
+    },
+    {
+      "label": "Extract YouTube Hashtag",
+      "url": "https://teamcsb.com/youtube-hashtag-extractor",
+      "color": "youtube"
+    },
+    {
+      "label": "YouTube Thumbnail Downloader",
+      "url": "https://teamcsb.com/youtube-thumbnail-downloader",
+      "color": "youtube"
+    },
+    {
+      "label": "YouTube Channel Logo Downloader",
+      "url": "https://teamcsb.com/youtube-channel-logo-downloader",
+      "color": "youtube"
+    },
+    {
+      "label": "YouTube Video Statistics",
+      "url": "https://teamcsb.com/youtube-video-statistics",
+      "color": "youtube"
     }
   ]
 }
