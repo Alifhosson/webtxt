@@ -1,4 +1,4 @@
 {
-  "serviceStatus": "on",
-  "offMessage": ""
+  "serviceStatus": "off",
+  "offMessage": "fuck"
 }
